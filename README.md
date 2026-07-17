@@ -9,7 +9,7 @@ Source: [Belize Press Office](https://www.pressoffice.gov.bz) official press rel
 Add this feed to your calendar app so it updates automatically whenever this file is changed:
 
 ```
-webcal://azetinashjc.github.io/belize-holidays/Belize%20Holidays.ics
+webcal://azetinashjc.github.io/belize-holidays/Belize-Holidays.ics
 ```
 
 (This link assumes the repo is named `belize-holidays` — adjust if you use a different repo name.)
@@ -38,7 +38,7 @@ Belize's official holiday list is announced yearly by the Belize Press Office, u
 
 To update:
 1. Get the latest official press release from the Belize Press Office
-2. Edit `Belize Holidays.ics` in this repo — add or update the relevant `VEVENT` blocks
+2. Edit `Belize-Holidays.ics` in this repo — add or update the relevant `VEVENT` blocks
 3. Commit the change
 
 Once committed, subscribed calendars will pick up the update automatically on their next refresh (typically within a day).
