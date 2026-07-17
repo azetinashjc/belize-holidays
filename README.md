@@ -12,8 +12,6 @@ Add this feed to your calendar app so it updates automatically whenever this fil
 webcal://azetinashjc.github.io/belize-holidays/Belize-Holidays.ics
 ```
 
-(This link assumes the repo is named `belize-holidays` — adjust if you use a different repo name.)
-
 ### iPhone / iPad
 1. **Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar**
 2. Paste the `webcal://` link above
